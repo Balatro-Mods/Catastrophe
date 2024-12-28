@@ -1,0 +1,12 @@
+{
+	"id": "catastrophe",
+	"name": "Catastrophe",
+	"display_name": "Catastrophe",
+	"author": ["Darkhax"],
+	"description": "Adds cat themed content to the game!",
+	"prefix": "catastrophe",
+	"main_file": "main.lua",
+	"priority": 0,
+	"version": "1.0.0",
+	"dependencies": []
+}
