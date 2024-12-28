@@ -6,7 +6,7 @@ Adds cat themed content to the game Balatro.
 > This mod is still in early development. The mod is missing a lot of content, existing content is subject to change, and there will be bugs.
 
 ### Downloads
-- [0.0.1](htpps://darkhax.net/assets/balatro/catastrophe/catastrophe-0.0.1.zip) - 12/28/2024
+- [0.0.1](https://darkhax.net/assets/balatro/catastrophe/catastrophe-0.0.1.zip) - 12/28/2024
 ### Current Content
 As of version **0.0.1** the mod currently adds two new Joker cards named *Miriel* and *Miriel (Full Art)*. These jokers will give you +10 and +15 mult respectively for each consumable held when then hand is scored.
 
