@@ -1,0 +1,11 @@
+{
+    "workspace": {
+      "library": [
+        "C:\\Users\\Tyler\\AppData\\Roaming\\Balatro\\Mods\\Steamodded-main",
+        "C:\\Users\\Tyler\\AppData\\Roaming\\Balatro\\Mods\\lovely\\dump"
+      ]
+    },
+    "diagnostics.globals": [
+        "localize"
+    ]
+  }
